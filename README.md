@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+##### Well, quite impressive so far, isn´t it..
+
+- I'm currently webdev apprentice @ DCI, Berlin
+
+![2701](./assets/apple-touch-icon.png)
+
 <!--
 **2701kai/2701kai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

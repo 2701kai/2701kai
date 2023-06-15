@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-##### Well, quite impressive so far, isn´t it..
+##### Well, quite impressive so far, isn´t it?
 
-- I'm currently webdev apprentice @ DCI, Berlin
+- stay tuned, it's about to change..
 
 ![2701](./assets/apple-touch-icon.png)
 

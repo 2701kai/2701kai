@@ -12,6 +12,8 @@ Thank you for the humbling (and slightly intimidating) inspiration!
 
 And for the subtle reality check, too: I may be as charming as a spring meadow near Stratford-upon-Avon, but admittedly, not quite as inspiring.
 
+Wanna build? [Let's go!](https://elita.dev/turbo-web-dev.mp4)
+
 <!--
 **2701kai/2701kai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

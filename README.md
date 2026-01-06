@@ -6,13 +6,15 @@
 
 ![2701](./assets/apple-touch-icon.png)
 
-With the adorable support of ridiculously talented web devs whose eloquently crafted poetry of code far beyond my "array of expressions" makes my current skillset look like a loading screen.
+<!--With the adorable support of ridiculously talented web devs whose eloquently crafted poetry of code far beyond my "array of expressions" makes my current skillset look like a loading screen.
 
 Thank you for the humbling (and slightly intimidating) inspiration!
 
-And for the subtle reality check, too: I may be as charming as a spring meadow near Stratford-upon-Avon, but admittedly, not quite as inspiring.
+And for the subtle reality check, too: I may be as charming as a spring meadow near Stratford-upon-Avon, but admittedly, not quite as inspiring.-->
 
 Wanna build? [Let's go!](https://elita.dev/turbo-web-dev.mp4)
+
+Future's now. So waiting.. what for? Get your software project up and running in an instant. [MVP in 100 hours.](https://app.elita.dev)
 
 <!--
 **2701kai/2701kai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

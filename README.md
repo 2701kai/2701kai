@@ -14,7 +14,9 @@ And for the subtle reality check, too: I may be as charming as a spring meadow n
 
 Wanna build? [Let's go!](https://elita.dev/turbo-web-dev.mp4)
 
-Future's now. So waiting.. what for? Get your software project up and running in an instant. [MVP in 100 hours.](https://app.elita.dev)
+Future's now. So waiting.. what for? Get your software project up and running in an instant. 
+
+[MVP in 100 hours.](https://app.elita.dev)
 
 <!--
 **2701kai/2701kai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
